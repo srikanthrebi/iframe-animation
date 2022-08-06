@@ -7,11 +7,13 @@ body{
     overflow: hidden;
 }
 #container {
+  background-image: url("../image/grases.jpg");
   position: relative;
   width: 435px;
   height: 309px;
   overflow: hidden;
   margin:  0 auto;
+  
 }
 #sprite{
     position: relative;
@@ -44,4 +46,12 @@ body{
     position: absolute;
     top: -927px;
     left: 3900px;
+}
+#img-05{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 433px;
+    height: 309px;
+
 }

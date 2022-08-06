@@ -15,7 +15,6 @@
     animation-timing-function: steps(8);
     animation-iteration-count: infinite; */
     margin: auto;
-    border: 1px solid black;
     overflow: hidden;
 
 }
